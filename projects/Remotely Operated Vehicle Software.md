@@ -34,6 +34,8 @@ any possible harm above ground. LOTA is the result of Blue ROVotics' tough grind
 precise time plan. This technical report explicates how Blue ROVotics brought LOTA to reality from mere theories,
 comprising the detailed process.
 
+For more details check out the technical report [here](https://drive.google.com/open?id=0B-VhYYVAauuFQkJYVk9naVpuTlk)
+
 <img class="ui large centre floated rounded image" src="/images/flowchartrov.png">
 
-For more details check out the technical report [here](https://drive.google.com/open?id=0B-VhYYVAauuFQkJYVk9naVpuTlk)
+
