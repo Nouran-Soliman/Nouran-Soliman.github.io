@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/poster.jpg
 title: Improving Performance of Ground-plane Detection CNN
-permalink: projects/Improving Performance of Ground-plane Detection CNN
+permalink: projects/adoberesearch
 date: 2017
 labels:
   - Computer Vision
