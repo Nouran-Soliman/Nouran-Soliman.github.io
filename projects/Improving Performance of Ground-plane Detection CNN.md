@@ -14,7 +14,7 @@ labels:
 summary: Worked on building a pipeline to create a specialized dataset for a horizon estimation CNN
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/pipeline.jpg">
 </div>
 
