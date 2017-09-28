@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ROV.jpg
+image: images/ROV.png
 title: Remotely Operated Vehicle Software
 permalink: projects/rov
 date: 2015
@@ -16,7 +16,7 @@ labels:
 summary: Designed and implemented a layered easily extendable software for controlling the ROV in C#.
 ---
 
-<img class="ui large centre floated rounded image" src="/images/sidrov.jpg">
+<img class="ui large centre floated rounded image" src="/images/sidrov.png">
 
 MATE center's 2015 call ensued the innovation of Lord Of The Arctic (LOTA), the ROV designed and constructed
 by Blue ROVotics to perform the challenging tasks assigned, under harsh circumstances including darkness because
@@ -34,6 +34,6 @@ any possible harm above ground. LOTA is the result of Blue ROVotics' tough grind
 precise time plan. This technical report explicates how Blue ROVotics brought LOTA to reality from mere theories,
 comprising the detailed process.
 
-<img class="ui large centre floated rounded image" src="/images/flowchartrov.jpg">
+<img class="ui large centre floated rounded image" src="/images/flowchartrov.png">
 
 For more details check out the technical report [here](https://drive.google.com/open?id=0B-VhYYVAauuFQkJYVk9naVpuTlk)
