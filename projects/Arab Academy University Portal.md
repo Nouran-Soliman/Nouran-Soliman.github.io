@@ -11,6 +11,7 @@ labels:
   - JavaScript
   - HTML
   - PHP
+  
 summary: Worked on developing university portal serving students, professors, admins and guests.
 ---
 
